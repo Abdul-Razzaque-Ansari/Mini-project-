@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+    // Name:-Abdul Razzaque Ansari
+    // ERP:-10031
     int N = 10;
     int i;
     
@@ -45,3 +47,17 @@ int main() {
 
     return 0;
 }
+// Output 
+// Loop Optimization Demo
+// ----------------------
+// For Loop:
+// Sum = 55
+// Iteration Count = 10
+
+// While Loop:
+// Sum = 55
+// Iteration Count = 10
+
+// Both loops executed same number of iterations.
+
+
