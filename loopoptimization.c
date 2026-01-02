@@ -6,7 +6,7 @@ int main() {
     int N = 10;
     int i;
     
-    /* FOR LOOP */
+    //FOR LOOP
     int sum_for = 0;
     int for_count = 0;
 
@@ -15,7 +15,7 @@ int main() {
         for_count++;
     }
 
-    /* WHILE LOOP */
+    // WHILE LOOP
     int sum_while = 0;
     int while_count = 0;
     i = 1;
@@ -26,7 +26,7 @@ int main() {
         i++;
     }
 
-    /* DISPLAY RESULTS */
+    // DISPLAY RESULTS 
     printf("Loop Optimization Demo\n");
     printf("----------------------\n");
 
